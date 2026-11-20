@@ -36,19 +36,17 @@
 
 
 ### 팹리스 점프업 일경험 프로그램 5기
-- Telechips  
-    [https://github.com/Fabless-Academy/FI-05-08_LDG]
+- [Telechips](https://github.com/Fabless-Academy/FI-05-08_LDG)
 
 - nextchip
 
 
 ## 프로젝트
 
-### Verilog HDL 기반 다기능 디지털 시계 설계 프로젝트
+### [Verilog HDL 기반 다기능 디지털 시계 설계 프로젝트](https://github.com/LDG-eng/Verilog-Digital-Clock-with-Stopwatch-Alarm)
 
 
-### UHF RFID 신호 기반 거리 추정 및 측위 프로젝트  
-[https://github.com/LDG-eng/uhf-rfid-distance-estimation]
+### [UHF RFID 신호 기반 거리 추정 및 측위 프로젝트](https://github.com/LDG-eng/uhf-rfid-distance-estimation)
 
 - 기간 : 
 - Tool : 
