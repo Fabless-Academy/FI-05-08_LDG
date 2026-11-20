@@ -10,7 +10,10 @@
 
 
 ## 수상 
-
+- HUFStudy 최우수상
+  - 주제 : 아날로그 회로설계 & Full Custom Layout 설계
+  - 기간 : 
+  - 
 
 ## 자격증
 
