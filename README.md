@@ -43,7 +43,10 @@
 
 ## 프로젝트
 
-### [Verilog HDL 기반 다기능 디지털 시계 설계 프로젝트](https://github.com/LDG-eng/Verilog-Digital-Clock-with-Stopwatch-Alarm)
+### [Verilog HDL 기반 다기능 디지털 시계 설계 프로젝트](https://github.com/LDG-eng/Verilog-Digital-Clock-with-Stopwatch-Alarm/blob/main/index.md)
+- 기간 : 
+- Tool :
+
 
 
 ### [UHF RFID 신호 기반 거리 추정 및 측위 프로젝트](https://github.com/LDG-eng/uhf-rfid-distance-estimation)
