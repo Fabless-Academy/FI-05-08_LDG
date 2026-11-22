@@ -1,8 +1,8 @@
 # 호기심과 끈기로 문제를 해결하는 엔지니어 이동근입니다.
 
 ## About Me
-- 관심 분야 : 
-- 경험 분야 : 
+- 🎯 관심 분야 : RTL & FPGA Design, Physical Design (PI/PD), Embedded Systems (MCU)
+- 🔧 경험 분야 : Verilog HDL, Circuit Design & Simulation
 - 목표 : 
 
 
@@ -13,24 +13,18 @@
 - 2027/2 졸업예정
 
 ## Skill
-- 언어 : 
-- 개발도구 :
+- Languages : <img src="https://img.shields.io/badge/C%2FC%2B%2B-3776AB?style=flat-square&logo=c&logoColor=white">
+              <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white">
+              <img src="https://img.shields.io/badge/Tcl-002855?style=flat-square&logo=gnubash&logoColor=white">
+              <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=cplusplus&logoColor=white">
+        
+- Tools : <img src="https://img.shields.io/badge/Xilinx Vivado%20Vivado-E01F27?style=flat-square&logoColor=white">
+          <img src="https://img.shields.io/badge/ModelSim-002855?style=flat-square&logoColor=white">\
+          <img src="https://img.shields.io/badge/LTspice-0091BD?style=flat-square&logo=arm&logoColor=white">
 
 
 
-<img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ModelSim-002855?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white"/>
-<img src="https://img.shields.io/badge/FreeRTOS-2196F3?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/Virtuso-2196F3?style=flat-square&logoColor=white">
 
 
 ## 수상 
