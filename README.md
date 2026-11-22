@@ -7,21 +7,43 @@
 
 
 ## 학력
+- 한국외국어대학교 전자물리학과 (본전공)
+- 한국외국어대학교 전자공학과 (복수전공)
+- 학점 : 3.72/4.5
+- 2027/2 졸업예정
+
+## Skill
+- 언어 : 
+- 개발도구 :
+
+
+
+<img src="https://img.shields.io/badge/Verilog-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SystemVerilog-00599C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ModelSim-002855?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeRTOS-2196F3?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white"/>
+
+
 
 
 ## 수상 
 - HUFStudy 최우수상
   - 주제 : 아날로그 회로설계 & Full Custom Layout 설계
-  - 기간 : 
-  - 
+  - 주관 : 한국외국어대학교 교육 혁신원
+  - 기간 : 2024.12 ~ 2025.02
+  - 상세 내용
 
-## 자격증
+## 경험 / 교육
 
-
-## 경험
-
-
-### Embedded SW 설계
+### ETRI Embedded SW 설계 교육
+- 기간 : 2025.08
 
 
 ### ETRI 반도체 설계 교육 Chip synthesis & STA 분석
@@ -50,9 +72,20 @@
 
 
 ### [UHF RFID 신호 기반 거리 추정 및 측위 프로젝트](https://github.com/LDG-eng/uhf-rfid-distance-estimation)
-
-- 기간 : 
+- 기간 :
 - Tool : 
 
 ### 다단 AMP 증폭기 설계 프로젝트
-- 기간 : 
+- 기간 :
+
+## 자격증
+- OPIc IH (Intermediate High)
+  - 취득일 : 2026.05.07
+ 
+- 자동차운전면허 2종 보통
+  - 취득일 : 2021.01.05
+
+## Contact
+- GitHub : <a href="https://github.com/LDG-eng?tab=repositories"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+- Phone : 010-2935-6953
+- E-mail : 4g0308@naver.com
