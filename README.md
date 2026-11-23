@@ -26,7 +26,7 @@
   <br>
   <img src="https://img.shields.io/badge/Synopsys%20ICC2-4B2E68?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Multisim-265C4B?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-9E1B24?style=flat-square&logo=amd&logoColor=white">
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logo=amd&logoColor=white">
 
 - **Embedded & Dev Environment :**
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
