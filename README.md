@@ -29,11 +29,11 @@
 
 - **Embedded & Dev Environment :**
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Vi%20%2F%20Vim-019733?style=flat-square&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00666C?style=flat-square&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
-  <img src="https://img.shields.io/badge/FreeRTOS-2196F3?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/FreeRTOS-1B5E20?style=flat-square&logoColor=white">
   
 
 ## 🥇 수상 
