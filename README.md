@@ -18,13 +18,11 @@
   <img src="https://img.shields.io/badge/Verilog-001F3F?style=flat-square&logo=cplusplus&logoColor=white">
   
 - **EDA & Circuit Tools :**
-  
   <img src="https://img.shields.io/badge/Cadence%20Innovus-8B1E2B?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Xcelium-8B1E2B?style=flat-square&logo=microchip&logoColor=white">
   <img src="https://img.shields.io/badge/Genus-8B1E2B?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Tempus-8B1E2B?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Virtuoso-8B1E2B?style=flat-square&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Synopsys%20ICC2-4B2E68?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Multisim-265C4B?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logo=amd&logoColor=white">
