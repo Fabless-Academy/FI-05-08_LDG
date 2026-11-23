@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Verilog-001F3F?style=flat-square&logo=cplusplus&logoColor=white">
   
 - **EDA & Circuit Tools :**
+  
   <img src="https://img.shields.io/badge/Cadence%20Innovus-8B1E2B?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Xcelium-8B1E2B?style=flat-square&logo=microchip&logoColor=white">
   <img src="https://img.shields.io/badge/Genus-8B1E2B?style=flat-square&logoColor=white">
