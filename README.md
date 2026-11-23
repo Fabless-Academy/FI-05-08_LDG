@@ -10,30 +10,31 @@
 - 학점 : 3.72/4.5
 - 2027/2 졸업예정
 
-## 🛠 Skill
-- **Languages:**
+## 🛠️ Skill
+- **Languages :**
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-3776AB?style=flat-square&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Python-00599C?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Tcl-002855?style=flat-square&logo=gnubash&logoColor=white">
-  <img src="https://img.shields.io/badge/Verilog-000000?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Verilog-001F3F?style=flat-square&logo=cplusplus&logoColor=white">
   
-- **EDA & Circuit Tools:**
-  <img src="https://img.shields.io/badge/Cadence%20Innovus-E31837?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-E31837?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Genus%20%2F%20Tempus-E31837?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Synopsys%20ICC2-5A2D81?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat-square&logo=amd&logoColor=white">
-  <img src="https://img.shields.io/badge/ModelSim-002855?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Multisim-009B77?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/LTspice-0091BD?style=flat-square&logo=arm&logoColor=white">
+- **EDA & Circuit Tools :**
+  <img src="https://img.shields.io/badge/Cadence%20Innovus-8B1E2B?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcelium-8B1E2B?style=flat-square&logo=microchip&logoColor=white">
+  <img src="https://img.shields.io/badge/Genus-8B1E2B?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Tempus-8B1E2B?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Virtuoso-8B1E2B?style=flat-square&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Synopsys%20ICC2-4B2E68?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Multisim-265C4B?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-9E1B24?style=flat-square&logo=amd&logoColor=white">
 
-- **Embedded & Dev Environment:**
+- **Embedded & Dev Environment :**
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/FreeRTOS-2196F3?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Vi%20%2F%20Vim-019733?style=flat-square&logo=vim&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/FreeRTOS-2196F3?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   
 
 ## 🥇 수상 
@@ -43,7 +44,7 @@
   - 기간 : 2024.12 ~ 2025.02
   - 상세 내용
 
-## 경험 / 교육
+## 💻 경험 / 교육
 
 ### ETRI Embedded SW 설계 교육
 - 기간 : 2025.08
@@ -60,13 +61,18 @@
 - 
 
 
-### 팹리스 점프업 일경험 프로그램 5기
+### 한국팹리스산업협회(KFIA) 팹리스 점프업 일경험 프로그램
+- 기간 : 2026.11 ~ 2026.12
+- 넥스트칩(Nextchip) 및 텔레칩스(Telechips) 상용 개발 보드 기반 시스템반도체 응용·임베디드 실무 프로젝트 수행
+
+
+
 - [Telechips](https://github.com/Fabless-Academy/FI-05-08_LDG)
 
 - nextchip
 
 
-## 프로젝트
+## 📂 프로젝트
 
 ### [Verilog HDL 기반 다기능 디지털 시계 설계 프로젝트](https://github.com/LDG-eng/Verilog-Digital-Clock-with-Stopwatch-Alarm/blob/main/index.md)
 - 기간 : 
@@ -81,14 +87,14 @@
 ### 다단 AMP 증폭기 설계 프로젝트
 - 기간 :
 
-## 자격증
+## 📜 자격증
 - OPIc IH (Intermediate High)
   - 취득일 : 2026.05.07
  
 - 자동차운전면허 2종 보통
   - 취득일 : 2021.01.05
 
-## Contact
-- GitHub : <a href="https://github.com/LDG-eng?tab=repositories"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+## 📫 Contact
+- GitHub : <a href="https://github.com/LDG-eng"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 - Phone : 010-2935-6953
 - E-mail : 4g0308@naver.com
