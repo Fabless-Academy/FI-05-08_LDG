@@ -1,8 +1,8 @@
 # 호기심과 끈기로 문제를 해결하는 엔지니어 이동근입니다.
 
 ## 🚀 About Me
-- 🎯 관심 분야 : RTL & FPGA Design, Physical Design (PI/PD), Embedded Systems (MCU)
-- 🔧 경험 분야 : Verilog HDL, Circuit Design & Simulation
+- 🎯 **관심 분야** : RTL & FPGA Design, Physical Design (PI/PD), Embedded Systems (MCU)
+- 🔧 **경험 분야** : Verilog HDL, Circuit Design & Simulation
 
 ## 🎓 학력
 - 한국외국어대학교 전자물리학과 (본전공)
