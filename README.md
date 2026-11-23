@@ -97,3 +97,9 @@
 - GitHub : <a href="https://github.com/LDG-eng"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 - Phone : 010-2935-6953
 - E-mail : 4g0308@naver.com
+
+
+
+
+
+https://blog.naver.com/resumakekorea/224422738589
