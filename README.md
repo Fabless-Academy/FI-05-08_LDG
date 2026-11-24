@@ -43,34 +43,34 @@
   - **활동 내용:**
     - **아날로그 회로 설계:** Folded Cascode, CMFB, Class A/B Amp 구조를 결합한 **3단 Fully-Differential Op-Amp** 설계 (Tr W/L 사이징을 통한 Input Bias 스펙 충족 및 저항비 조절로 목표 Gain 달성)
     - **시스템 검증 및 레이아웃:** 설계한 Op-Amp를 Switch 및 Comparator 회로와 연동해 목표 출력 파형을 검증하고, SR Latch·Comparator 등의 **Full Custom Layout 면적 최적화** 수행
-    
+
 
 ## 💻 경험 / 교육
 
-### ETRI Embedded SW 설계 교육
-- 기간 : 2025.08
-
-
-### ETRI 반도체 설계 교육 Chip synthesis & STA 분석
-
-
-### ETRI 반도체 설계 교육 P&R 기본 (Synopsys)
-
-
-### ETRI 반도체 설계 교육 Auto P&R 과정
-- 기간 : 2026.06 ~ 2026.08
-- 
-
-
 ### 한국팹리스산업협회(KFIA) 팹리스 점프업 일경험 프로그램
-- 기간 : 2026.11 ~ 2026.12
-- 넥스트칩(Nextchip) 및 텔레칩스(Telechips) 상용 개발 보드 기반 시스템반도체 응용·임베디드 실무 프로젝트 수행
+- **기간 :** 2026.11 ~ 진행 중
+- **내용 :** 넥스트칩(Nextchip) 및 텔레칩스(Telechips) 상용 개발 보드 기반 시스템반도체 응용 및 임베디드 실무 프로젝트 수행
+- **결과물 :** [Telechips](링크) | [Nextchip](링크)
 
+### ETRI 반도체 설계 교육 - Auto P&R 과정
+- **기간 :** 2026.06 ~ 2026.08
+- **사용 툴 :** Cadence Innovus, Tempus, Genus
+- **내용 :** Floorplan, Power Plan, CTS, Routing 및 DRC/Antenna 물리 검증 수행, 계층별(Core/Cluster/Top) PPA 트레이드오프 분석
 
+### ETRI 반도체 설계 교육 - P&R 기본 이론
+- **기간 :** 2026.01 ~ 2026.01
+- **사용 툴 :** Synopsys ICC2
+- **내용 :** Synopsys 기반 물리 설계(Physical Implementation) 전체 플로우 실습 및 레이아웃 최적화
 
-- [Telechips](https://github.com/Fabless-Academy/FI-05-08_LDG)
+### ETRI 반도체 설계 교육 - Chip Synthesis & STA 분석
+- **기간 :** 2026.01 ~ 2026.01
+- **사용 툴 :** Cadence Genus, Tempus 
+- **내용 :** RTL 논리 합성(Logic Synthesis), SDC 타이밍 제약조건 설정 및 정적 타이밍 분석(STA)을 통한 Setup/Hold Violation 해결
 
-- nextchip
+### ETRI Embedded SW 설계 교육
+- **기간 :** 2025.08
+- **사용 환경 :** STM32, C / RTOS 환경
+- **내용 :** 마이크로컨트롤러 아키텍처 이해 및 GPIO, ADC, Timer/Interrupt 기반 임베디드 C 펌웨어 제어 실습
 
 
 ## 📂 프로젝트
