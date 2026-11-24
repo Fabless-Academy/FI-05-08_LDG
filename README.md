@@ -36,12 +36,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   
 
-## 🥇 수상 
-- **HUFStudy 최우수상**
-  - 주제 : 아날로그 회로설계 & Full Custom Layout 설계
-  - 주관 : 한국외국어대학교 교육 혁신원
-  - 기간 : 2024.12 ~ 2025.02
-  - 상세 내용
+## 🥇 수상
+- [**학습공동체 HUFStudy 최우수상**](링크)
+  - **주제:** 아날로그 회로설계 및 Full Custom Layout 설계
+  - **주관 / 기간:** 한국외국어대학교 교육혁신원 | 2024.12 ~ 2025.02
+  - **활동 내용:**
+    - **아날로그 회로 설계:** Folded Cascode, CMFB, Class A/B Amp 구조를 결합한 **3단 Fully-Differential Op-Amp** 설계 (Tr W/L 사이징을 통한 Input Bias 스펙 충족 및 저항비 조절로 목표 Gain 달성)
+    - **시스템 검증 및 레이아웃:** 설계한 Op-Amp를 Switch 및 Comparator 회로와 연동해 목표 출력 파형을 검증하고, SR Latch·Comparator 등의 **Full Custom Layout 면적 최적화** 수행
+    
 
 ## 💻 경험 / 교육
 
@@ -97,9 +99,3 @@
 - GitHub : <a href="https://github.com/LDG-eng"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 - Phone : 010-2935-6953
 - E-mail : 4g0308@naver.com
-
-
-
-
-
-https://blog.naver.com/resumakekorea/224422738589
